@@ -1,3 +1,6 @@
+# Static Documentation
+docs/site/
+
 # System-specific temporary and index files
 .DS_Store
 .swp
@@ -61,5 +64,8 @@ docs/_build/
 target/
 
 # IPython Notebooks
-Testing TPOT usage.ipynb
+.ipynb_checkpoints
 .ipynb_checkpoints/*
+
+docs/sources/examples/.Rhistory
+
